@@ -1,15 +1,4 @@
-***************************************************************************
-*   Please make sure that you have done the following before proceeding   *
-*   with the CDF-Json utilities:                                          * 
-*                                                                         *
-*     - Installed JDK 1.7 or later.                                       *
-*     - installed/built the CDF distribution package.                     *
-*     - executed the setenv.bat located in the top distribution to set up *
-*       proper environment variables.                                     *
-*                                                                         *
-*   Note: CDFJson.jar and its related jar files are in lib directory.     *
-***************************************************************************
-
+12345
 Instructions for using the CDF's Json programs 
 -----------------------------------------------
 
